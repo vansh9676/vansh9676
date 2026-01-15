@@ -18,7 +18,12 @@ I turn coffee into code and complex problems into simple Android apps. Currently
 ---
 
 ### 📊 GitHub Stats
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=radical" alt="Vansh's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=radical" alt="Vansh's Streak" />
+</p>
 
 ---
 
