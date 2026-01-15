@@ -9,11 +9,6 @@ I turn coffee into code and complex problems into simple Android apps. Currently
 - ⚡ **Fun fact:** I built my first app to solve a real-world problem for local contractors.
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Vansh;Android+Developer;Building+Udharbook" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <h3 align="center">🛠️ My Tech Stack</h3>
