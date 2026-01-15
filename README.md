@@ -25,15 +25,23 @@ I turn coffee into code and complex problems into simple Android apps. Currently
 <br/>
 
 <h3 align="center">📊 My GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh9676&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=dracula&hide_border=true&background=0d1117" alt="streak graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh9676&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+  </a>
 </div>
----
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=dracula&hide_border=true&background=0d1117" alt="Vansh's Streak" />
+</div>
+<br>
 
 ### 🔗 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vansh-kharb-9937ab2b6/)
