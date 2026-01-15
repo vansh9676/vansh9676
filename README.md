@@ -10,23 +10,34 @@ I turn coffee into code and complex problems into simple Android apps. Currently
 
 ---
 
-### 🛠️ Tech Stack
-| Mobile | Database | Tools |
-| :--- | :--- | :--- |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh9676&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Vansh;Android+Developer;Building+Udharbook" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ My Tech Stack</h3>
+<div align="center">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+</div>
+
+<br/>
+
+<h3 align="center">📊 My GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh9676&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=dracula&hide_border=true" alt="Vansh's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=dracula&hide_border=true&background=0d1117" alt="streak graph" />
 </div>
-
 ---
 
 ### 🔗 Connect with Me
