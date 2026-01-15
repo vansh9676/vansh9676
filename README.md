@@ -9,39 +9,18 @@ I turn coffee into code and complex problems into simple Android apps. Currently
 - ⚡ **Fun fact:** I built my first app to solve a real-world problem for local contractors.
 
 ---
-<br/>
 
-<h3 align="center">🛠️ My Tech Stack</h3>
-<div align="center">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-</div>
+### 🛠️ Tech Stack
+| Mobile | Database | Tools |
+| :--- | :--- | :--- |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-<br/>
+---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+### 📊 GitHub Stats
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh9676&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676&theme=dracula&hide_border=true&background=0d1117" alt="Vansh's Streak" />
-</div>
-<br>
+---
 
 ### 🔗 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vansh-kharb-9937ab2b6/)
