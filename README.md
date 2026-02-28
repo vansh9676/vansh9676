@@ -90,7 +90,7 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 📊 **GitHub Stats**
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&locale=en" />
+[Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh9676&show_icons=true&theme=radical)
 </p>
 
 ---
