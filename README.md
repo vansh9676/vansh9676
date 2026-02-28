@@ -89,8 +89,9 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 
 📊 **GitHub Stats**
 
-<p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh9676)</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh9676" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
