@@ -67,6 +67,9 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 <a href="https://instagram.com/vansh__kharb___" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+  <a href="https://x.com/jaatvansh5556" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
