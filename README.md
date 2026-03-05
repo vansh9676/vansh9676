@@ -31,10 +31,10 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 👨‍💻 **Portfolio & Projects**
 
 🌐 Portfolio:  
-👉 https://vansh9676.github.io/
+<a herf="https://vansh9676.github.io/" target="_blank">👉CLICK HERE TO VIEW OR TYPE https://vansh9676.github.io/</a>
 
 🏢 Company Website:  
-👉 https://neuralforgeai.netlify.app/
+<a herf=" https://neuralforgeai.netlify.app/" target="_blank">👉CLICK HERE TO VIEW OR TYPE https://neuralforgeai.netlify.app</a>
 
 📄 Resume:  
 👉 https://vansh9676.github.io/resume.html
