@@ -34,7 +34,7 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 <a herf="https://vansh9676.github.io/" target="_blank">👉 https://vansh9676.github.io/</a>
 
 🏢 Company Website:  
-<a herf=" https://neuralforgeai.netlify.app/" target="_blank">👉 https://neurali.free.nf/?i=1</a>
+<a herf=" https://neuralforgeai.netlify.app/" target="_blank">👉 https://neurali.free.nf/</a>
 
 📄 Resume:  
 👉 https://vansh9676.github.io/resume.html
