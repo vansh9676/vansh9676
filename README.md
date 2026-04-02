@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">Founder & AI Developer | Building Digital Solutions that Drive Business Growth</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications & Digital Solutions</h3>
 
 ---
 
 🚀 **About Me**
 
-I am a Full-Stack Developer and the Founder of **NeuralForge AI**, a digital agency focused on building AI-powered websites, automation systems, and scalable web solutions for startups and businesses.
+I am a Full-Stack Developer focused on building modern, scalable, and user-friendly web applications.
 
-I specialize in creating fast, modern, and conversion-focused web experiences that help businesses grow online.
+I specialize in creating fast, responsive, and real-world web solutions using modern technologies that solve practical problems and deliver great user experiences.
 
 ---
 
 🔭 **Currently Working On**
 
-- 🧠 NeuralForge AI — AI websites & automation solutions  
+- 🧠 AI-powered websites & automation solutions  
 - 📊 UdharBook — Digital ledger for daily wage management  
 - 🧮 CalcTools — Privacy-first financial planning platform  
 - 🎓 ExamHub — Online mock test & education platform  
@@ -31,10 +31,10 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 👨‍💻 **Portfolio & Projects**
 
 🌐 Portfolio:  
-<a herf="https://vansh9676.github.io/" target="_blank">👉 https://vansh9676.github.io/</a>
+<a href="https://vansh9676.github.io/" target="_blank">👉 https://vansh9676.github.io/</a>
 
-🏢 Company Website:  
-<a herf=" https://neuralforgeai.netlify.app/" target="_blank">👉 https://neurali.free.nf/</a>
+🌐 Projects:  
+<a href="https://neuralforgeai.netlify.app/" target="_blank">👉 https://neuralforgeai.netlify.app/</a>
 
 📄 Resume:  
 👉 https://vansh9676.github.io/resume.html
@@ -43,11 +43,11 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 
 💬 **Ask Me About**
 
-- Web Development
-- React
-- UI/UX
-- Automation Systems
-- Startup Projects
+- Web Development  
+- React  
+- UI/UX  
+- Full Stack Development  
+- Automation Systems  
 
 ---
 
@@ -67,7 +67,7 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 <a href="https://instagram.com/vansh__kharb___" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-  <a href="https://x.com/jaatvansh5556" target="blank">
+<a href="https://x.com/jaatvansh5556" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 </p>
@@ -100,4 +100,4 @@ I specialize in creating fast, modern, and conversion-focused web experiences th
 
 ⭐ **Vision**
 
-> Building technology that solves real problems and creates meaningful impact for businesses and people.
+> Building scalable web applications that solve real-world problems and create meaningful impact.
