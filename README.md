@@ -34,7 +34,7 @@ I specialize in creating fast, responsive, and real-world web solutions using mo
 <a href="https://vansh9676.github.io/" target="_blank">👉 https://vansh9676.github.io/</a>
 
 🌐 Projects:  
-<a href="https://neuralforgeai.netlify.app/" target="_blank">👉 https://neuralforgeai.netlify.app/</a>
+<a href="https://neurali.free.nf/" target="_blank">👉 https://neurali.free.nf/</a>
 
 📄 Resume:  
 👉 https://vansh9676.github.io/resume.html
